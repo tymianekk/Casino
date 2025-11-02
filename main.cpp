@@ -66,7 +66,7 @@ int main() {
     std::cout << "=========================\n";
 
     if (reels[0] == reels[1] && reels[1] == reels[2]) {
-        std::cout << "💰💰💰 JACKPOT!!! MEGA BIG WIN! 💰💰💰\n";
+        std::cout << "JACKPOT!!! MEGA BIG WIN! \n";
     }
 
     std::cout << "Game over.\n";
